@@ -1,0 +1,7 @@
+project_id = "hydzfgyzkgtqodkhmpxv"
+
+[functions.study-ai]
+verify_jwt = false
+
+[functions.extract-text]
+verify_jwt = false
